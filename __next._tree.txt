@@ -1,0 +1,12 @@
+:HL["/_next/static/chunks/8a27461c47c2c799.css","style"]
+:HL["/_next/static/chunks/efeb1bc772892fe3.css","style"]
+:HL["/_next/static/media/248e1dc0efc99276-s.p.8a6b2436.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/70bc3e132a0a741e-s.p.15008bfb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/modern-sales-dashboard-analytics.jpg","image"]
+:HL["/customer-segmentation-data-visualization.jpg","image"]
+:HL["/financial-charts-graphs.png","image"]
+:HL["/market-trends-data-analysis.jpg","image"]
+:HL["/inventory-management-dashboard.png","image"]
+:HL["/social-media-analytics-metrics.jpg","image"]
+0:{"buildId":"bXrRWOnqDe3JuwM_j4UJ4","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
