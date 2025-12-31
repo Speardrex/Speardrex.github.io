@@ -9,4 +9,4 @@
 :HL["/market-trends-data-analysis.jpg","image"]
 :HL["/inventory-management-dashboard.png","image"]
 :HL["/social-media-analytics-metrics.jpg","image"]
-0:{"buildId":"bXrRWOnqDe3JuwM_j4UJ4","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"DCeRZgcP8xwrSBGkM5waz","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
